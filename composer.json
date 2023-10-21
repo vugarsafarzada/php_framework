@@ -1,0 +1,15 @@
+{
+  "name": "vendor/project",
+  "description": "API based back-end service with PHP@8.2",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Vugar Safarzada"
+    }
+  ],
+  "require": {
+    "fruitcake/laravel-cors": "^3.0",
+    "vlucas/phpdotenv": "^5.5",
+    "ext-mysqli": "*"
+  }
+}
